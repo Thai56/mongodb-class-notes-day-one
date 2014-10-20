@@ -1,0 +1,22 @@
+- Tooling and Installation
+Data modeling
+Embedded versus referential
+One to Many
+* Many to Many
+Create, Update, Delete documents
+Understand indexes and where to use them
+ObjectId’s and why they are important
+Mongoose vs MongoJS
+
+
+
+brew install mongo
+
+choco install mongodb
+
+Launch Rocket (Mac Only) 
+https://github.com/jimbojsb/launchrocket/releases - Brew preference pane
+
+RoboMongo - Gui Editor
+MongoChef - Gui Editor (Mac Only)
+
